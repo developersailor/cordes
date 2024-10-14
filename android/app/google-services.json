@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376252362790",
+    "firebase_url": "https://help-corona-84f63.firebaseio.com",
+    "project_id": "help-corona-84f63",
+    "storage_bucket": "help-corona-84f63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376252362790:android:2537334ae680911af0f6e7",
+        "android_client_info": {
+          "package_name": "com.wcrop.cordes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376252362790-9o3ea7eqsqd510hja47mpsp84rqcmnjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcrop.cordes",
+            "certificate_hash": "d91e5923cd88e5fc714775296585b463dd473d58"
+          }
+        },
+        {
+          "client_id": "376252362790-55h4nr68pbdefqirfgeif8e41e8ifh18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6eEB3MUq93kyQwZRwm-P4IbrhOOt-fQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376252362790-55h4nr68pbdefqirfgeif8e41e8ifh18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376252362790-90ok3mabjng8qn1p4ike3heeuerelrr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wcrop.coronaHelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
